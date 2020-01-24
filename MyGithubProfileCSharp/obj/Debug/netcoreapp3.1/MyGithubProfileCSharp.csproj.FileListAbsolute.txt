@@ -1,0 +1,13 @@
+C:\Users\opilane\projects\MyGithubProfileCSharp\MyGithubProfileCSharp\bin\Debug\netcoreapp3.1\MyGithubProfileCSharp.exe
+C:\Users\opilane\projects\MyGithubProfileCSharp\MyGithubProfileCSharp\obj\Debug\netcoreapp3.1\MyGithubProfileCSharp.csprojAssemblyReference.cache
+C:\Users\opilane\projects\MyGithubProfileCSharp\MyGithubProfileCSharp\obj\Debug\netcoreapp3.1\MyGithubProfileCSharp.AssemblyInfoInputs.cache
+C:\Users\opilane\projects\MyGithubProfileCSharp\MyGithubProfileCSharp\obj\Debug\netcoreapp3.1\MyGithubProfileCSharp.AssemblyInfo.cs
+C:\Users\opilane\projects\MyGithubProfileCSharp\MyGithubProfileCSharp\bin\Debug\netcoreapp3.1\MyGithubProfileCSharp.deps.json
+C:\Users\opilane\projects\MyGithubProfileCSharp\MyGithubProfileCSharp\bin\Debug\netcoreapp3.1\MyGithubProfileCSharp.runtimeconfig.json
+C:\Users\opilane\projects\MyGithubProfileCSharp\MyGithubProfileCSharp\bin\Debug\netcoreapp3.1\MyGithubProfileCSharp.runtimeconfig.dev.json
+C:\Users\opilane\projects\MyGithubProfileCSharp\MyGithubProfileCSharp\bin\Debug\netcoreapp3.1\MyGithubProfileCSharp.dll
+C:\Users\opilane\projects\MyGithubProfileCSharp\MyGithubProfileCSharp\bin\Debug\netcoreapp3.1\MyGithubProfileCSharp.pdb
+C:\Users\opilane\projects\MyGithubProfileCSharp\MyGithubProfileCSharp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\opilane\projects\MyGithubProfileCSharp\MyGithubProfileCSharp\obj\Debug\netcoreapp3.1\MyGithubProfileCSharp.csproj.CopyComplete
+C:\Users\opilane\projects\MyGithubProfileCSharp\MyGithubProfileCSharp\obj\Debug\netcoreapp3.1\MyGithubProfileCSharp.dll
+C:\Users\opilane\projects\MyGithubProfileCSharp\MyGithubProfileCSharp\obj\Debug\netcoreapp3.1\MyGithubProfileCSharp.pdb
